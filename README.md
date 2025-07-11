@@ -39,8 +39,9 @@ git clone https://github.com/sergiotechx/StarMakerSorobanV1S2.git
 ---
 
 ### **Reto**
+Hacer un fork del siguiente repositorio, solucionar el reto y subir en tu repositorio del contrato funcionando
+[**Task manager**](https://github.com/sergiotechx/StarMakerSorobanV1RetoS2Mex)
 
-[**Task manager**](https://github.com/sergiotechx/StarMakerSorobanV1S2/tree/main/reto)
 
 Cada funcion del contrato tiene 1 error, con las herramientas:   
 
